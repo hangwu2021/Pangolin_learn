@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hangwu/Documents/Pangolin_learn/BasicOpenGL/1_gl_intro_classic_triangle.cpp
+pangolin/display/display.h
+-
+pangolin/gl/gl.h
+-
+
